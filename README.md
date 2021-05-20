@@ -24,4 +24,4 @@ Acesse Project Settings -> Plugin e habilite o plugin “Virtual Joystick”
 
 ------------
 
-Você usará esse código comercialmente? Fique tranquilo que você pode usar livremente e sem ter que falar nada, claro que ficarei feliz se você pelo menos lembrar da ajuda e compartilhar com os amigos ^_^ . Se você se sentir bem, considere me comprar um café -> https://picpay.me/marcial.lincoln
+Você usará esse código comercialmente? Fique tranquilo que você pode usar livremente e sem ter que falar nada, claro que ficarei feliz se você pelo menos lembrar da ajuda e compartilhar com os amigos ^_^ . Se você se sentir bem, considere me comprar um café -> [PicPay](https://drive.google.com/file/d/1gdOPqMZDVS8T_i8JToAUN2eQcC-Tn8qq/view?usp=sharing "PicPay")
