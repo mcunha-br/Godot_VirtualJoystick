@@ -6,7 +6,7 @@
 ------------
 
 #### Demostração
-![Virtual Joystick text](https://github.com/mcunha-br/Godot_VirtualJoystick/raw/main/capa_virtual_joystick.png "Virtual Joystick")
+[![Virtual Joystick](https://github.com/mcunha-br/Godot_VirtualJoystick/raw/main/capa_virtual_joystick.png "Virtual Joystick")](https://www.youtube.com/watch?v=T56kGj-w5cM "Virtual Joystick")
 
 ------------
 
