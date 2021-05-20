@@ -17,9 +17,9 @@ No projeto de exemplo, mostro como usar em um projeto 2D e 3D
 
 
 #### Configurando o Addon
-Baixe o arquivo [virtual_joystick.7z](http://https://github.com/mcunha-br/Godot_VirtualJoystick/blob/main/virtual_joystick.7z "virtual_joystick.7z")
-Coloque na pasta “addon” do seu projeto
-Acesse Project Settings -> Plugin e habilite o plugin “Virtual Joystick”
+1. Baixe o arquivo [virtual_joystick.7z](http://https://github.com/mcunha-br/Godot_VirtualJoystick/blob/main/virtual_joystick.7z "virtual_joystick.7z")
+2. Coloque na pasta “addon” do seu projeto
+3. Acesse Project Settings -> Plugin e habilite o plugin “Virtual Joystick”
 
 
 ------------
