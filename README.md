@@ -11,10 +11,7 @@
 ------------
 
 #### Exemplo
-No projeto de exemplo, mostro como usar em um projeto 2D e 3D
-
-------------
-
+No vídeo acima, eu demonstro mostro como usar em um projeto 2D e 3D
 
 #### Configurando o Addon
 1. Baixe o arquivo [virtual_joystick.7z](https://github.com/mcunha-br/Godot_VirtualJoystick/blob/main/VirtualJoystick.7z)
@@ -25,10 +22,7 @@ No projeto de exemplo, mostro como usar em um projeto 2D e 3D
 ------------
 
 #### Exemple
-In the example project I show how to use it in a 2D and 3D project
-
-------------
-
+In the video above, I demonstrate how to use it in a 2D and 3D project
 
 #### Configuring the Addon
 1. Download the virtual_joystick.7z file [virtual_joystick.7z](https://github.com/mcunha-br/Godot_VirtualJoystick/blob/main/VirtualJoystick.7z)
