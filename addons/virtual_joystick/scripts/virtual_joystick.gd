@@ -6,6 +6,7 @@ signal analogic_released
 
 export(Texture) var border = null setget set_border
 export(Texture) var stick = null setget set_stick
+export var relocate_position_on_click := false # if it is true, It is hidden when the joystick is released, and when the screen is clicked, it appears by centering that point.
 
 var joystick = Sprite.new()
 var touch = TouchScreenButton.new()
@@ -44,6 +45,8 @@ func _enter_tree() -> void:
 
 
 func _ready() -> void:
+	if relocate_position_on_click == true:
+		hide()
 	touch.connect("released", self, "_on_released")
 	update()
 
